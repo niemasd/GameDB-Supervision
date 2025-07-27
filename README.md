@@ -1,0 +1,2 @@
+# GameDB-Supervision
+Watara Supervision
